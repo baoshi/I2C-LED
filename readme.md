@@ -10,5 +10,5 @@ A emulation layer for the "Adafruit 4-Digit 7-Segment Display Backpack" http://w
 
 The free KickStart edition of "IAR Embedded Workbench for STMicroelectronics STM8" is used for development. STM8S/A Standard Peripherals Library (STM8S_StdPeriph_Driver V2.1.0) is also needed.
 
-Descriptions for this project can be found at http://www.ba0sh1.com/hacking-the-cheap-led-voltmeter/
+Descriptions for this project can be found at http://www.ba0sh1.com/hacking-a-cheap-led-voltmeter/
  
