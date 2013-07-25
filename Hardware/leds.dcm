@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0  Date: 24/7/2013 10:29:55 PM
+#
+$CMP 7-SEGMENT-4DIGIT
+D 4 Digit 7-Segment LED display common anode
+$ENDCMP
+#
+#End Doc Library

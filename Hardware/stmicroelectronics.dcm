@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0  Date: 24/7/2013 10:30:33 PM
+#
+$CMP STM8S003F3
+D Mainstream Value line 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, integrated EEPROM
+K STM8S
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00024550.pdf
+$ENDCMP
+#
+#End Doc Library
